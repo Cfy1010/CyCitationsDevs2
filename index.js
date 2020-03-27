@@ -3,7 +3,7 @@ let text = document.getElementById('nom');
 let btn = document.getElementById('btn');
 let avatar = document.getElementById('avatar');
 let citation = document.getElementById('citation');
-const url = "http://graven.yt/citations.json";
+const url = "./citations.json";
 let citations = [];
 
 
